@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://adobe.sharepoint.com/:x:/r/sites/fdm-sharepointlisttestsite/ 
+    url: https://adobe.sharepoint.com/:x:/r/sites/fdm-sharepointlisttestsite
     
